@@ -1,0 +1,16 @@
+{
+    "Merhaba": 0,
+    "benim": 1,
+    "adım": 2,
+    "Erdem": 3,
+    ".": 4,
+    "da": 5,
+    "Ahmet": 6,
+    "Benim": 7,
+    "ler": 8,
+    "bugün": 9,
+    "bize": 10,
+    "gelecek": 11,
+    "<unk>": 12,
+    " ": 13
+}
